@@ -32,10 +32,11 @@
                 {"date": "2020-10-30T00:00:00.000+08:00", "maximumCash": 20000.01,"status": 2, "interest": 500.20, "growthRate": 10.01}
             ],
   "predict": {
-        "status": 2, 
+        "status": 2,
         "requiredStake": 500.01,
         "currentStake": 1000.01,
         "estimateInterestAmount": 10.1,
-        "maximumCash": 10000.01
+        "maximumCash": 10000.01,
+        "growthRate": 100.01
     }
 }
