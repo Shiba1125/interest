@@ -35,8 +35,8 @@
         "status": 2,
         "requiredStake": 500.01,
         "currentStake": 1000.01,
-        "estimateInterestAmount": 10.1,
+        "estimateInterestAmount": 100.1,
         "maximumCash": 10000.01,
-        "growthRate": 100.01
+        "growthRate": 10.01
     }
 }
