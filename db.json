@@ -1,6 +1,5 @@
 {
   "chartData": [
-                {"date": "2020-10-01T00:00:00.000+08:00", "maximumCash": 20000.01,"status": 2, "interest": 1400.30, "growthRate": 10.01}
+                {"date": "2020-10-01T00:00:00.000+08:00", "maximumCash": 20000.01, "status": 2, "interest": 1400.30, "growthRate": 10.01}
             ]
-
 }
