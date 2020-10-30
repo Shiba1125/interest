@@ -30,5 +30,5 @@
                 {"date": "2020-10-28T00:00:00.000+08:00", "maximumCash": 20000.01,"status": 2, "interest": 800.10, "growthRate": 10.01},
                 {"date": "2020-10-29T00:00:00.000+08:00", "maximumCash": 20000.01,"status": 2, "interest": 1000.20, "growthRate": 10.01},
                 {"date": "2020-10-30T00:00:00.000+08:00", "maximumCash": 20000.01,"status": 2, "interest": 500.20, "growthRate": 10.01}
-            ],
+            ]
 }
